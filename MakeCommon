@@ -1,0 +1,3 @@
+.ONESHELL:
+.SHELL=bash
+.RECIPEPREFIX=>
